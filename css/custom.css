@@ -1,0 +1,9 @@
+body{
+	text-align: center;
+	margin: 0em;
+}
+
+.challenge{
+	border-style: double;
+	border-width: 50%;
+}
